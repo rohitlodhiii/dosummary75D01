@@ -1,7 +1,7 @@
 import React from "react";
 import { useState, useEffect } from "react";
 import { copy, linkIcon, loader, tick } from "../assets";
-import { logo } from "../assets";
+
 
 const Hero = () => {
   
