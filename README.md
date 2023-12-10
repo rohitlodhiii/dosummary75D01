@@ -1,3 +1,1 @@
-# project_ai_summarizer-main
-# project_ai_summarizer-main
-# project_ai_summarizer-main
+Project 1 of my 75 days 75 Project Challenge
